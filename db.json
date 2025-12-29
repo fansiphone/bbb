@@ -439,6 +439,38 @@
       "active": true,
       "type": 1,
       "group": "normal"
+    },
+    {
+      "key": "ck",
+      "name": "CK资源",
+      "api": "https://www.ckzy1.com/api.php/provide/vod",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    }, 
+    {
+      "key": "baiwan",
+      "name": "百万资源",
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "aosika",
+      "name": "奥斯卡资源",
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "jingpin",
+      "name": "精品资源",
+      "api": "https://www.jingpinx.com/api.php/provide/vod",
+      "active": true,
+      "type": 1,
+      "group": "normal"
     }
   ]
 }
