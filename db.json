@@ -415,6 +415,558 @@
       "active": true,
       "type": 1,
       "group": "normal"
+    },
+    {
+      "key": "heimuer",
+      "name": "黑木耳资源",
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "huaweiba",
+      "name": "华为吧资源",
+      "api": "https://cjhwba.com/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "aliys",
+      "name": "阿里源",
+      "api": "http://aliys.cn:90/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "feidao",
+      "name": "飞刀资源",
+      "api": "http://www.feidaozy.com/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "huaweiba_hw8",
+      "name": "华为吧(HW8)",
+      "api": "https://hw8.live/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "leshi",
+      "name": "乐视资源",
+      "api": "https://leshiapi.com/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "baopian",
+      "name": "宝片资源",
+      "api": "https://zpsps.com/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "inmi_xml",
+      "name": "映迷资源(XML)",
+      "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "xiaohuangren",
+      "name": "小黄人资源",
+      "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "yingtu",
+      "name": "影图资源",
+      "api": "https://cj.vodimg.top/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "xiaomaomi",
+      "name": "小猫咪资源",
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "piaohua",
+      "name": "飘花资源",
+      "api": "http://www.ahjiuman.com/api.php/provide/vod/at/json",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "lzm3u8",
+      "name": "量子资源(m3u8)",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "360xml",
+      "name": "360资源(XML)",
+      "api": "https://360zy.com/api.php/seaxml/vod",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "ikm3u8",
+      "name": "爱坤资源(m3u8)",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "feisu2",
+      "name": "飞速资源2",
+      "api": "http://fszy1.com/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "feisu3",
+      "name": "飞速资源3",
+      "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "yilingba_mac",
+      "name": "1080资源(Mac)",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "tiankong1",
+      "name": "天空资源1",
+      "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "tkm3u8",
+      "name": "天空资源(m3u8)",
+      "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "gsm3u8",
+      "name": "光速资源(m3u8)",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "bajie",
+      "name": "八戒资源",
+      "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "shenma",
+      "name": "神马资源",
+      "api": "https://img.smdyw.top/api.php/provide/vod",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "hnm3u8",
+      "name": "红牛资源(m3u8)",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "kuaikan",
+      "name": "快看资源",
+      "api": "https://kuaikan-api.com/api.php/provide/vod",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "tianyi",
+      "name": "天翼资源",
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "tianyi_json",
+      "name": "天翼资源(JSON)",
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/at/json",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "sanjiukan",
+      "name": "39影视",
+      "api": "https://www.39kan.com/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "sanjiukan_json",
+      "name": "39影视(JSON)",
+      "api": "https://www.39kan.com/api.php/provide/vod/at/json/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "yugege",
+      "name": "雨哥哥资源",
+      "api": "http://cj.baozi66.top:66/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "qihu",
+      "name": "奇虎资源",
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "simi",
+      "name": "私密影院",
+      "api": "https://simiyy.com/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "yaoxie",
+      "name": "耀协资源",
+      "api": "http://zyz.yxys.top/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "inmi_vod",
+      "name": "映迷资源",
+      "api": "https://www.inmi.app/api.php/provide/vod/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "jinying_m3u8",
+      "name": "金鹰资源(m3u8)",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "shandian_m3u8",
+      "name": "闪电资源(m3u8)",
+      "api": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "sijiu",
+      "name": "四九资源",
+      "api": "https://49zyw.com/api.php/provide/vod",
+      "active": true,
+      "type": 1,
+      "group": "normal"
+    },
+    {
+      "key": "fty",
+      "name": "饭太硬接口",
+      "api": "http://www.饭太硬.com/tv",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "feimao",
+      "name": "肥猫接口",
+      "api": "http://肥猫.com",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "duhe",
+      "name": "毒盒接口",
+      "api": "https://毒盒.com/tv/",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "moyu",
+      "name": "摸鱼儿接口",
+      "api": "http://我不是.摸鱼儿.com",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "ok_config",
+      "name": "OK影视接口",
+      "api": "http://ok321.top/ok",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "wex",
+      "name": "王二小接口",
+      "api": "http://tvbox.王二小放牛娃.top",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "dmc",
+      "name": "动漫城接口",
+      "api": "https://www.yingm.cc/dm/dm.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "junlao",
+      "name": "俊佬接口",
+      "api": "http://home.jundie.top:81/top98.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "qiaoji",
+      "name": "巧记接口",
+      "api": "http://cdn.qiaoji8.com/tvbox.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "daozhang",
+      "name": "道长接口",
+      "api": "https://cdn.gitmirror.com/bb/xduo/libs/master/index.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "t4",
+      "name": "T4接口",
+      "api": "https://gitee.com/free-kingdom/dc/raw/main/T4.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "nanfeng",
+      "name": "南风接口",
+      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "cainisi",
+      "name": "菜妮丝接口",
+      "api": "https://tv.菜妮丝.top",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "hg",
+      "name": "HG接口",
+      "api": "https://api.hgyx.vip/hgyx.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "dxawi",
+      "name": "dxawi接口",
+      "api": "https://dxawi.github.io/0/0.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "xiaomi",
+      "name": "小米接口",
+      "api": "http://www.mitvbox.xyz/小米/DEMO.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "xiaobox",
+      "name": "小盒子4K",
+      "api": "http://xhztv.top/4k.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "xiaosa",
+      "name": "潇洒接口",
+      "api": "https://9877.kstore.space/AnotherD/api.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "xyq",
+      "name": "香雅情接口",
+      "api": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "xpg",
+      "name": "小苹果接口",
+      "api": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "baohe",
+      "name": "宝盒VIP",
+      "api": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "ouge",
+      "name": "欧歌接口",
+      "api": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "nezha",
+      "name": "哪吒接口",
+      "api": "https://哪吒.live/",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "zhenxin",
+      "name": "真心接口",
+      "api": "https://www.252035.xyz/z/FongMi.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "meow",
+      "name": "喵影视接口",
+      "api": "http://www.meowtv.vip/tvbox.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "fuma",
+      "name": "驸马接口",
+      "api": "http://fmys.top/fmys.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "gtly",
+      "name": "高天流云",
+      "api": "https:/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "qinglong",
+      "name": "青龙接口",
+      "api": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "maoys",
+      "name": "分享接口",
+      "api": "https://raw.githubusercontent.com/maoystv/6/main/000.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "duanju",
+      "name": "短剧接口",
+      "api": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "yusheng",
+      "name": "余生(游魂)",
+      "api": "https://www.iyouhun.com/tv/ys",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
+    },
+    {
+      "key": "et",
+      "name": "儿童专属(游魂)",
+      "api": "https://www.iyouhun.com/tv/et",
+      "active": true,
+      "type": 3,
+      "group": "tvbox_config"
     }
   ]
 }
